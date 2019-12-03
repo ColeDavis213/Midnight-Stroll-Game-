@@ -1,0 +1,1 @@
+global.rightR = Street2;
