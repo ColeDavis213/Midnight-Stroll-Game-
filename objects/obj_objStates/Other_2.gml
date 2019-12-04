@@ -30,3 +30,6 @@ global.downR = Street1;
 //Stats
 global.money = 0;
 
+//TEMP
+global.hasKnife = true;
+

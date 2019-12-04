@@ -5,7 +5,11 @@ draw_text_ext(128, 542, texts[page + 1], 25, 800);
 draw_text_ext(128, 624, texts[page + 2], 25, 800);
 
 draw_set_font(Talk_fnt);
+if (dpage == 0)
+{
 draw_text_ext(542, 10, alleyTexts[dpage], 20, 400);
+}
+if (dpage == 1
 
 
 draw_sprite(spr_Alley01, -1, 128, 0);

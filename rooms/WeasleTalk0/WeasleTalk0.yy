@@ -2,7 +2,7 @@
 {
     "name": "WeasleTalk0",
     "id": "10a641ac-5d7f-4970-bac6-d4bf8a15a122",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
