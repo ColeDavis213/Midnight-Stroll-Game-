@@ -75,9 +75,9 @@ alleyTexts[5] = @"You reach back down again past the torn bag, now leaking a fou
 
 				You push down to grab the object and quickly pull it up this time revealing, oh man, no way!
 				
-				It's an unopened Amiigo figurine! You used to collect these a couple years ago. Why would anyone throw one of *these* away? You already own this character, it's one of over fifty you now keep locked away in a wooden chest, but you decide theres nothing wrong with one extra.
+				It's an unopened amiigo figurine! You used to collect these a couple years ago. Why would anyone throw one of *these* away? You already own this character, it's one of over fifty you now keep locked away in a wooden chest, but you decide theres nothing wrong with one extra.
 				
-				You could maybe even sell it online, you're certain that they are selling for just as much as they did a few years ago.
+				You could maybe even sell it online, surely they are selling for just as much as they did a few years ago.
 				
 				You fit it snuggly in your hoodie pocket, content with your decision to rummage through the trash."
 

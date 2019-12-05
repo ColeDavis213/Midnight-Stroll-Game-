@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "350b3c17-e800-4a60-b30f-9aada3171ce1",
+            "Value": {
+                "id": "bf8f4b9e-feff-45e9-8959-b9cfa41ff549",
+                "resourcePath": "sprites\\spr_dumpsterCloseRacoon\\spr_dumpsterCloseRacoon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35535dfd-81d6-4045-a827-3b2f5c26e6d3",
             "Value": {
                 "id": "1dc2bb6a-38b1-4745-aa69-bdd3ac38d62c",
@@ -492,6 +500,14 @@
                 "id": "2cc73af0-f096-49be-bc87-1dc183d596e3",
                 "resourcePath": "views\\38262b0f-862b-4635-b518-6b8784b575ef.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39ed8705-a8cc-41bd-9f1b-ce58ca39fe54",
+            "Value": {
+                "id": "1c4ce9ff-10a9-403d-80cc-533cff7d7227",
+                "resourcePath": "sprites\\spr_amiigo\\spr_amiigo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +711,14 @@
             }
         },
         {
+            "Key": "53fbd320-87eb-4cd7-91b4-6892c79d41b4",
+            "Value": {
+                "id": "d3e50c60-8e12-4229-abd2-2080b4e1ae8a",
+                "resourcePath": "views\\53fbd320-87eb-4cd7-91b4-6892c79d41b4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5432dc8c-6c29-423d-847f-6ef07ca6a638",
             "Value": {
                 "id": "400a9a60-94d8-4fd9-b222-3b9eab192a52",
@@ -876,6 +900,14 @@
                 "id": "22316368-9fb9-4358-a472-315b6e2b23ac",
                 "resourcePath": "objects\\obj_house0_upstairs_text1\\obj_house0_upstairs_text1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66598e2e-a4c3-4bfa-b130-db268f448da0",
+            "Value": {
+                "id": "53286369-af50-464f-ac61-601d7d20a2b8",
+                "resourcePath": "sprites\\spr_dumpsterCloseShake\\spr_dumpsterCloseShake.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1315,6 +1347,14 @@
             "Value": {
                 "id": "53994e99-cf61-425a-95fe-862781fc50d1",
                 "resourcePath": "sprites\\spr_house0_bedroom_drawerText_noFlash\\spr_house0_bedroom_drawerText_noFlash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "916b1f56-23e2-43fb-814e-eefa362b9908",
+            "Value": {
+                "id": "b3a991a4-44b6-4551-8f64-36526e8a8f94",
+                "resourcePath": "sprites\\spr_dumpsterCloseShakeSlit\\spr_dumpsterCloseShakeSlit.yy",
                 "resourceType": "GMSprite"
             }
         },
