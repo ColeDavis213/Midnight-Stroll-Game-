@@ -31,5 +31,5 @@ global.downR = Street1;
 global.money = 0;
 
 //TEMP
-global.hasKnife = true;
+global.hasKnife = false;
 

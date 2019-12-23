@@ -10,7 +10,8 @@
         "e48d31a5-0916-48fd-94ea-0ce85b6f6705",
         "aa996c88-7d8d-4d02-a665-2fc0d39a7bbb",
         "2d4940ac-58e4-4549-98f5-1672376aad87",
-        "8ac83dbc-cf5e-42a7-b420-91a8f314c2f6"
+        "8ac83dbc-cf5e-42a7-b420-91a8f314c2f6",
+        "a174c3e5-0a3a-4607-a3ef-0fa09e4b08bf"
     ],
     "filterType": "GMRoom",
     "folderName": "Streets",
