@@ -2,7 +2,7 @@
 {
     "name": "Street7",
     "id": "8ac83dbc-cf5e-42a7-b420-91a8f314c2f6",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
