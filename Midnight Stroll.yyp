@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0595b941-58ff-4de7-a79b-398762551f49",
+            "Value": {
+                "id": "6fec4bc6-1e75-4d03-ac7f-89a49c23298b",
+                "resourcePath": "sprites\\spr_grave05\\spr_grave05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05d155db-b751-4956-a035-b24f3d75e515",
             "Value": {
                 "id": "792d353b-2057-41cf-ab7f-9d24c4769d35",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "0d408dd3-545a-4a08-84f6-b94a43f34312",
+            "Value": {
+                "id": "b8541c16-311d-412f-867f-df5bcfbeca55",
+                "resourcePath": "objects\\obj_cemetaryFence1\\obj_cemetaryFence1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e79aa32-4104-4e9c-8f94-bfc244c223ac",
             "Value": {
                 "id": "4892d5c8-ea0e-4c9d-a94e-7afa1c7b226a",
@@ -212,6 +228,14 @@
                 "id": "7d4874cb-7d8d-487e-a978-7922275eb922",
                 "resourcePath": "rooms\\ParkTemp\\ParkTemp.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "126e9aec-7a66-414a-8f14-dd29b8301686",
+            "Value": {
+                "id": "db2a2302-e4f9-4aab-9ee7-a7850df9b0ae",
+                "resourcePath": "objects\\obj_cemetaryFence\\obj_cemetaryFence.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -471,11 +495,11 @@
             }
         },
         {
-            "Key": "2d4940ac-58e4-4549-98f5-1672376aad87",
+            "Key": "2be3642c-b734-4143-9b8f-f11e9fbf3a4d",
             "Value": {
-                "id": "863d42fa-509b-4994-9c94-12b50046cdd4",
-                "resourcePath": "rooms\\Street5\\Street5.yy",
-                "resourceType": "GMRoom"
+                "id": "6736352b-78ad-4fe8-b251-e32be14db31e",
+                "resourcePath": "objects\\obj_grave02\\obj_grave02.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -484,6 +508,14 @@
                 "id": "bcca5f31-9032-4890-b081-74c126820a85",
                 "resourcePath": "views\\2dcc1695-af4a-43f9-8aa0-aa045468398b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ded00ed-1471-4dd4-9a35-c8a194ce79c1",
+            "Value": {
+                "id": "d6710141-7706-4bcd-8e4b-2b7f95adb3e0",
+                "resourcePath": "sprites\\spr_opossumClose\\spr_opossumClose.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -527,6 +559,14 @@
             }
         },
         {
+            "Key": "33298d46-3c98-4d0e-a83d-048e6d47f981",
+            "Value": {
+                "id": "4f72b4db-e461-4ca4-818e-2cfdcd447d22",
+                "resourcePath": "objects\\obj_grave01\\obj_grave01.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3464e847-4742-4a5d-9574-af408ecb2b44",
             "Value": {
                 "id": "76f11f85-0821-459f-84cf-0a154ac866e6",
@@ -567,6 +607,22 @@
             }
         },
         {
+            "Key": "3567c219-befa-4159-b951-a02b36761f44",
+            "Value": {
+                "id": "e9308dde-6b55-4d92-b128-daefd98e6898",
+                "resourcePath": "views\\3567c219-befa-4159-b951-a02b36761f44.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35bfa221-7464-453c-b41a-c64a6aab5f19",
+            "Value": {
+                "id": "b71420ef-18b7-482b-923e-286fbb47adb7",
+                "resourcePath": "objects\\obj_grave04\\obj_grave04.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "35d9445b-1c15-4aec-91de-d9ceeb09fa93",
             "Value": {
                 "id": "ce7fbe68-2eb7-400f-baad-7e8187029c27",
@@ -596,6 +652,14 @@
                 "id": "2cc73af0-f096-49be-bc87-1dc183d596e3",
                 "resourcePath": "views\\38262b0f-862b-4635-b518-6b8784b575ef.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3973d79b-569b-42fc-a319-6142c3fd395b",
+            "Value": {
+                "id": "7c6124b0-66de-451a-a5b5-33a26276ac4b",
+                "resourcePath": "sprites\\spr_grave03\\spr_grave03.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +759,14 @@
             }
         },
         {
+            "Key": "43457f33-f92d-4377-bcde-1bd11d484756",
+            "Value": {
+                "id": "c9572696-925c-456d-8329-c0a6d041db03",
+                "resourcePath": "sprites\\spr_cemetarySign\\spr_cemetarySign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44c27dfa-7d14-4964-804d-0b3aaec9628e",
             "Value": {
                 "id": "4a575045-aab3-4e3a-b5bc-721131ee7476",
@@ -739,6 +811,14 @@
             "Value": {
                 "id": "6ab14844-afbd-416d-a1be-71761953dff4",
                 "resourcePath": "sprites\\spr_house7\\spr_house7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a90cfdf-6c1d-4f84-9c92-dec56607491f",
+            "Value": {
+                "id": "8d1c019a-eec3-49c4-8d85-58c5559706c4",
+                "resourcePath": "sprites\\spr_graveFlower\\spr_graveFlower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +911,14 @@
             }
         },
         {
+            "Key": "50722225-edeb-47c5-8b69-1e93a0f43cb1",
+            "Value": {
+                "id": "2a53ecdd-b459-419d-a80d-e9fa9d9184e5",
+                "resourcePath": "sprites\\spr_cemetaryFence\\spr_cemetaryFence.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50e22691-bd9d-4a57-9731-6b076cbc20c1",
             "Value": {
                 "id": "b6210e70-57a4-426b-a010-cdbd43d05a79",
@@ -908,6 +996,14 @@
                 "id": "133aa9c7-452d-4f90-9275-c2c86cc62c6f",
                 "resourcePath": "sprites\\spr_mouse\\spr_mouse.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5826f512-18db-4402-81c5-e677565c7384",
+            "Value": {
+                "id": "f4f90c1a-16bf-4b00-9f9e-95214d4c9044",
+                "resourcePath": "objects\\obj_flowerBush\\obj_flowerBush.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1004,6 +1100,14 @@
                 "id": "e7e263ee-a85a-45a2-a95d-f2ebef5142ac",
                 "resourcePath": "rooms\\ParkR1\\ParkR1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5f6c30b7-3a85-4c5b-b2fb-5b96dbeea1b9",
+            "Value": {
+                "id": "e50d94de-e235-4732-a7fc-033635e082cc",
+                "resourcePath": "objects\\obj_grave05\\obj_grave05.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1127,6 +1231,14 @@
             }
         },
         {
+            "Key": "6a520a43-bfa7-4989-8a52-cd07b6e42dc7",
+            "Value": {
+                "id": "dfdd179f-f44d-4b6f-84ef-37fa3178be24",
+                "resourcePath": "objects\\obj_headgehog\\obj_headgehog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6a60a630-7892-46eb-b1c9-5d430ef0cab0",
             "Value": {
                 "id": "a7cc0e7d-56aa-4f56-8292-ee902fe80960",
@@ -1231,6 +1343,14 @@
             }
         },
         {
+            "Key": "71003d1a-0500-4f99-8d31-5232b6ce2e74",
+            "Value": {
+                "id": "6b67cc95-bc58-44b9-aea1-e35399a326d8",
+                "resourcePath": "sprites\\spr_grave06\\spr_grave06.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "718199ef-b6b5-4815-8ef3-8d73df0a7e41",
             "Value": {
                 "id": "35bd1597-f6f0-407a-aee8-3e55a3346fe7",
@@ -1244,6 +1364,14 @@
                 "id": "1d8effb3-3bef-487c-9344-45aacdf53928",
                 "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "726c9d64-4470-4ef7-93be-f350888a48f1",
+            "Value": {
+                "id": "f4fb8acf-b73d-4258-8479-49d00f9b2904",
+                "resourcePath": "objects\\obj_grave03\\obj_grave03.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1275,6 +1403,14 @@
             "Value": {
                 "id": "e3f6b5a2-b1da-49aa-a23c-79f6421c1c49",
                 "resourcePath": "sprites\\spr_cat\\spr_cat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "785f14b7-331b-49fb-a547-719d5e941273",
+            "Value": {
+                "id": "a0e8db1c-eaf5-441e-9c76-f2b3b0c6df03",
+                "resourcePath": "sprites\\spr_hedgehog\\spr_hedgehog.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1463,6 +1599,14 @@
             }
         },
         {
+            "Key": "837beace-13c2-480c-9f03-82be4f66e3e9",
+            "Value": {
+                "id": "93ff8e67-63a6-4d6b-99dc-5e08fb4301c6",
+                "resourcePath": "rooms\\PossumTalk01\\PossumTalk01.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "850551c8-da98-44ed-8f49-a8fbf7052560",
             "Value": {
                 "id": "e325b09d-0d02-453a-ab93-5cf476728986",
@@ -1476,6 +1620,14 @@
                 "id": "7faef09d-9261-42fa-8b6b-95141054a6e0",
                 "resourcePath": "sprites\\spr_house0_bedroom\\spr_house0_bedroom.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85e8dab1-74f6-4354-9fd2-2f6739893cfa",
+            "Value": {
+                "id": "f98415b5-2c55-4d04-82a5-66ff64893ab5",
+                "resourcePath": "objects\\obj_cemetarySign\\obj_cemetarySign.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1663,6 +1815,14 @@
             }
         },
         {
+            "Key": "95c251af-1c3d-4127-9253-587b654a0734",
+            "Value": {
+                "id": "ad0b0169-b082-4bba-aa9a-dc81fc2baa00",
+                "resourcePath": "sprites\\spr_cemetaryFence1\\spr_cemetaryFence1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9624ec1a-7987-47ad-8b86-51c5e7d2faff",
             "Value": {
                 "id": "f366baa6-9d23-4a45-abfd-e4d6576c3169",
@@ -1767,6 +1927,14 @@
             }
         },
         {
+            "Key": "9c1d528e-caea-4f43-b4b2-3872cc995ba6",
+            "Value": {
+                "id": "5f8cae63-d122-4381-8bae-8dcf928783f9",
+                "resourcePath": "rooms\\Street5\\Street5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9c23893c-9ae5-4631-be55-b11722c3c9ef",
             "Value": {
                 "id": "e2f32e79-7c53-4ef4-b6a5-18ce63d6426d",
@@ -1839,6 +2007,14 @@
             }
         },
         {
+            "Key": "a43ff5ae-546a-4780-bd44-a06486ea5694",
+            "Value": {
+                "id": "9d845ee6-d14b-4498-bdba-3c9022315997",
+                "resourcePath": "objects\\obj_grave06\\obj_grave06.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a45e662d-80f7-4bdd-93cf-bf8b2e3eed75",
             "Value": {
                 "id": "a86fa111-b6c8-4571-ade6-5e9e2251e2b0",
@@ -1895,6 +2071,14 @@
             }
         },
         {
+            "Key": "a81d63e0-d9fa-40ef-ae73-c7c173b4d033",
+            "Value": {
+                "id": "b89f3e1f-34d7-4365-93c7-3bcdfcb17120",
+                "resourcePath": "sprites\\spr_flowerBush\\spr_flowerBush.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a86dfb98-1136-47dc-bb56-68aac6549d80",
             "Value": {
                 "id": "974bf4b7-5dc1-4a58-ae5b-2aff330b6abb",
@@ -1948,6 +2132,14 @@
                 "id": "618bcfe0-10f3-4dfe-ad3d-c8982ce0606d",
                 "resourcePath": "objects\\obj_BearTalk0\\obj_BearTalk0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "add98210-6a11-4a77-878c-196b58768d7b",
+            "Value": {
+                "id": "6c49f504-0fcc-480a-95fa-8556a5ec1470",
+                "resourcePath": "sprites\\spr_grave04\\spr_grave04.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2036,6 +2228,14 @@
                 "id": "9883f9fa-733c-4d80-9082-e22e79a98e85",
                 "resourcePath": "objects\\obj_starts\\obj_starts.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1570d80-f77b-49db-8e75-6fbfcd665d56",
+            "Value": {
+                "id": "cdbeae24-0ab5-4b67-95c6-fe8c9d740ecf",
+                "resourcePath": "sprites\\spr_hedgehogClose\\spr_hedgehogClose.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2335,6 +2535,22 @@
             }
         },
         {
+            "Key": "cd24ef18-19ee-4699-8a4b-9775e772998a",
+            "Value": {
+                "id": "340ed418-8763-4d43-8e78-eb1f49745791",
+                "resourcePath": "rooms\\ParkD1\\ParkD1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cd3cfc92-a8af-4bfc-95dd-75e2e5409402",
+            "Value": {
+                "id": "e34d069a-3c2c-4e28-8a2b-42d20a442bb5",
+                "resourcePath": "sprites\\spr_grave02\\spr_grave02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cda920c7-be12-4ada-a6d7-55bc6ec00f89",
             "Value": {
                 "id": "f3ee5b9e-55f9-4864-a1dc-dde70f08a4b4",
@@ -2447,11 +2663,27 @@
             }
         },
         {
+            "Key": "d600e901-99d5-47ce-b6b9-1948a52d1984",
+            "Value": {
+                "id": "7c6231dc-5011-4d22-8f82-7ab8de682962",
+                "resourcePath": "sprites\\spr_grave01\\spr_grave01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d6e7c545-6ee3-4f79-a4f9-d32964f7c59c",
             "Value": {
                 "id": "ff560595-f390-4b98-af29-b7c37961e301",
                 "resourcePath": "objects\\obj_blockade\\obj_blockade.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d89b2b5b-045e-4948-90fa-2d95bf11d666",
+            "Value": {
+                "id": "e5b7f17c-b0f9-41dd-9508-b682c1eec41a",
+                "resourcePath": "rooms\\Cemetary01\\Cemetary01.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2604,6 +2836,14 @@
                 "id": "8c5a9ca5-7364-48e5-9265-b4fea70da5ec",
                 "resourcePath": "sprites\\spr_house0_livrm_kitchText\\spr_house0_livrm_kitchText.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e71e8e70-202a-4a73-9724-5a12c588b703",
+            "Value": {
+                "id": "1e056850-6205-499e-a63b-2475cde0eb06",
+                "resourcePath": "objects\\obj_graveFlower\\obj_graveFlower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
