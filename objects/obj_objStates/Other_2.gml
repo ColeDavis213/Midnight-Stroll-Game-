@@ -33,3 +33,5 @@ global.money = 0;
 //TEMP
 global.hasKnife = false;
 
+global.prevRoom = Street0;
+
