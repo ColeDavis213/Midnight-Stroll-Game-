@@ -30,7 +30,11 @@
         "35bfa221-7464-453c-b41a-c64a6aab5f19",
         "5f6c30b7-3a85-4c5b-b2fb-5b96dbeea1b9",
         "a43ff5ae-546a-4780-bd44-a06486ea5694",
-        "e71e8e70-202a-4a73-9724-5a12c588b703"
+        "e71e8e70-202a-4a73-9724-5a12c588b703",
+        "b0d724af-3f70-49aa-b09e-4581cd748a7c",
+        "bd7d63ef-03cd-4db8-b34b-96717973f80b",
+        "14149f78-9718-4086-9839-d45af1d5efc7",
+        "8d3ec00d-ce8e-4bf7-931f-e4a38c3d55d2"
     ],
     "filterType": "GMObject",
     "folderName": "Decorations",
