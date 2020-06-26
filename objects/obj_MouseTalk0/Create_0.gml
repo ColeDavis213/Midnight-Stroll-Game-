@@ -74,7 +74,7 @@ Only 13 crimes commited in this park in the last decade, couting littering and v
 If someone were to try to do something to me, I'd be happy to mix up the statistics."
 mouseTexts[8] = @"Not really, it's just logical thinking. 
 
-Of course, there's also the law of unpredictability, but that's why I also have a can of mace with me."
+				  I also have a can of mace."
 mouseTexts[9] = @"No.
 
 Anyways, if you're so concerned about *me* being out here, isn't just as fishy for *you* to be out here by yourself?"

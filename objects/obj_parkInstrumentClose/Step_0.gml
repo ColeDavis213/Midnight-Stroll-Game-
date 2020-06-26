@@ -32,7 +32,8 @@ if (collision_point(mouse_x, mouse_y, obj_bar6, false, true) && click)
 	audio_play_sound(snd_inst6,7, false);
 }
 
-if (collision_point(mouse_x, mouse_y, obj_choice1, false, true) && click)
+if (collision_point(mouse_x, mouse_y, obj_choice3, false, true) && click)
 {
 	room_goto(ParkU1R1);
+	instance_activate_object(obj_cat);	
 }
