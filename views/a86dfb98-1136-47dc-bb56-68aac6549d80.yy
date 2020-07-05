@@ -21,6 +21,7 @@
         "2ded00ed-1471-4dd4-9a35-c8a194ce79c1",
         "b1570d80-f77b-49db-8e75-6fbfcd665d56",
         "4d869ea7-eb0b-4b87-8072-c49cb56a739c",
+        "e5466f35-17dd-4a08-9f6c-52d6a4061cba",
         "57ce40d2-b7b3-44e0-9f78-596cd63caa74",
         "989404a6-d24e-4d82-8362-f17578a88212",
         "4c51d4d1-e588-4e8b-90e4-387ca57811ab",
@@ -29,7 +30,9 @@
         "f5920976-4be6-4a7c-a339-7106b91c5d72",
         "187e9233-615e-411f-8e80-7823375d0e1c",
         "785f14b7-331b-49fb-a547-719d5e941273",
-        "e2a177c2-4da3-40fa-9985-5ed84a9b54ce"
+        "e2a177c2-4da3-40fa-9985-5ed84a9b54ce",
+        "9ea1347b-c693-4ebd-be92-9c4f8697063a",
+        "25f3ccaf-5b76-4e75-965f-11c5c54270b2"
     ],
     "filterType": "GMSprite",
     "folderName": "Characters",

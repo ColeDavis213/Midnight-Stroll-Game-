@@ -35,3 +35,9 @@ global.hasKnife = false;
 
 global.prevRoom = Street0;
 
+//Bathroom
+global.bathClean = false;
+global.hasKey = false;
+global.hasPaperTowels = false;
+global.towelBoxOpen = false;
+

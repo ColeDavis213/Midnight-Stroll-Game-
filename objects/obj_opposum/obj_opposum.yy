@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_opposum",
     "eventList": [
-        
+        {
+            "id": "f3d99e32-5e08-4976-96cb-c41ba4be9de9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "becf8ca5-2836-4690-8471-daf091ea21fd"
+        },
+        {
+            "id": "c28eb6f8-53e7-410a-905e-641048633b01",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "becf8ca5-2836-4690-8471-daf091ea21fd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -17,7 +17,9 @@
         "5b198897-7315-493b-b05f-6f25254f11d7",
         "2293d8b7-ac81-493b-b99a-434d0a9671e0",
         "7e32a423-d3b2-4877-9add-add760d9699c",
-        "0aabbdc2-da07-4a4d-8389-51d1eb7d390c"
+        "0aabbdc2-da07-4a4d-8389-51d1eb7d390c",
+        "0c78c3da-e200-4420-ad58-6a9b370caa26",
+        "52dd20d7-bdf3-4230-a504-6dac5429f59f"
     ],
     "filterType": "GMObject",
     "folderName": "Interior",
