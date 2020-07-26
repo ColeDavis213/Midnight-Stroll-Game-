@@ -1,6 +1,6 @@
 if (collision_point(mouse_x, mouse_y, obj_choice1, false, true) && click && !StrEmpty(texts[page]))
 {
-	if (dpage == 3 || dpage == 7)
+	if (dpage == 3)
 	{
 		dpage += 2;
 		page += 3;

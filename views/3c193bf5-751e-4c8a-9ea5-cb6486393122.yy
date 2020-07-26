@@ -14,7 +14,8 @@
         "958b38e6-21b4-495d-b4a7-14e5579a38c9",
         "4bb06cb1-2536-4973-b2d3-9513ca7808cd",
         "3567c219-befa-4159-b951-a02b36761f44",
-        "bd5ce157-f507-48d9-a455-92a41fbba343"
+        "bd5ce157-f507-48d9-a455-92a41fbba343",
+        "69f716f0-32ab-4857-85a1-b2b5d4b5c051"
     ],
     "filterType": "GMRoom",
     "folderName": "Talking",

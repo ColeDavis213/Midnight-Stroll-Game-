@@ -30,7 +30,7 @@ if (collision_point(mouse_x, mouse_y, textsSpr[5], false, true) && click)
 }
 if (collision_point(mouse_x, mouse_y, textsSpr[6], false, true) && click)
 {
-	instance_create_layer(320, 200, "Animations", obj_ani_grab_water);
+	instance_create_layer(320, 300, "Animations", obj_ani_grab_water);
 	instance_destroy(obj_house0_kitchen_fridge_text1);
 }
 
@@ -68,6 +68,6 @@ if (collision_point(mouse_x, mouse_y, textsSpr[12], false, true) && click)
 }
 if (collision_point(mouse_x, mouse_y, textsSpr[13], false, true) && click)
 {
-	instance_create_layer(220, 200, "Ani", obj_ani_grab_flashlight);
+	instance_create_layer(250, 250, "Ani", obj_ani_grab_flashlight);
 	instance_destroy(obj_house0_bedroom_drawer_text1);
 }

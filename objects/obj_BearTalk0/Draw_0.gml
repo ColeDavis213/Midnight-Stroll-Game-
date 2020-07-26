@@ -8,4 +8,13 @@ draw_set_font(Talk_fnt);
 draw_text_ext(542, 10, bearTexts[dpage], 20, 400);
 
 
-draw_sprite(spr_bearClose, dpage, 128, 0);
+if (dpage == 10 || dpage == 9)
+{
+	image_speed = 1;
+	draw_sprite(spr_bearStars, image_index/8, 128, 0);
+}
+else
+{
+	image_speed = 0;
+	draw_sprite(spr_bearClose, dpage, 128, 0);
+}

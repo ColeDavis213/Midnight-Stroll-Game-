@@ -17,7 +17,9 @@
         "ae4438a0-3b96-4463-85d6-0187d3a14913",
         "69271108-25ed-4221-9b04-f5ef0c1c125c",
         "3c413ecf-324f-41b3-bb0f-c7d6112e07b3",
-        "b05b6a5f-e19f-4b71-8a3f-b8f375fbedfe"
+        "b05b6a5f-e19f-4b71-8a3f-b8f375fbedfe",
+        "a45b2549-9ade-4943-be78-6b77d9ddfcde",
+        "4a0580ac-240a-49ef-8051-cd54af5a5471"
     ],
     "filterType": "GMObject",
     "folderName": "Dialouge",

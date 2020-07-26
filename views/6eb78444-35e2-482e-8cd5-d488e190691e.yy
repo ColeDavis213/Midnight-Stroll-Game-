@@ -11,7 +11,8 @@
         "50e22691-bd9d-4a57-9731-6b076cbc20c1",
         "54768daa-8eeb-4ade-ae0b-892e6d41ca88",
         "c59084ae-4ad8-4172-a428-aa1b6ddc50e1",
-        "b2c6a20d-2c3c-4cbd-85d4-b2c6ffd16efd"
+        "b2c6a20d-2c3c-4cbd-85d4-b2c6ffd16efd",
+        "def60a71-78dc-4be4-9547-42469198b975"
     ],
     "filterType": "GMObject",
     "folderName": "Bedroom",

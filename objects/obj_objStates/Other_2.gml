@@ -7,9 +7,9 @@ if (display_get_width() == 1920)
 	minus = 63;
 }
 
-window_set_size(dispW, dispH - minus);
+//window_set_size(dispW, dispH - minus);
 
-window_set_position(0, 25);
+//window_set_position(0, 25);
 
 
 //House0 (Your house)
