@@ -1,1 +1,1 @@
-sprite_index = spr_dragon;
+sprite_index = spr_deer;
