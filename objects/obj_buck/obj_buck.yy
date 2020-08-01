@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_buck",
     "eventList": [
-        
+        {
+            "id": "b5da97d1-672f-4a2e-949e-d702be6f883b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ae5a60a8-9c5e-4d0f-a19c-8f765191ec75"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

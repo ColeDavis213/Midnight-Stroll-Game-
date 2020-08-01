@@ -19,7 +19,11 @@
         "80287ae9-7ba5-46c3-b52a-c09e58b5053f",
         "db34eeb8-118b-433b-bc31-b50d93c35a87",
         "c3db381f-124e-4d7e-99f9-8f6a230fcbd6",
-        "2c42b104-e359-49ae-9a3e-d5a2a617085f"
+        "2c42b104-e359-49ae-9a3e-d5a2a617085f",
+        "6667ab37-ffef-4ab0-987a-f5fb8b2bbc91",
+        "00892db2-9b80-47ba-8f37-888d694964bb",
+        "88a76f60-461a-403d-9f5e-03b41ccada2e",
+        "e6e49d5d-c568-4b6d-8e33-ca07d4c19e56"
     ],
     "filterType": "GMObject",
     "folderName": "Battle Screen",

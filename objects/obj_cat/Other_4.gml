@@ -8,6 +8,9 @@ else if (room == Street7 && (global.prevRoom == Blumbos))
 	x = 416;
 	y = 352;
 }
+else if (room == BattleRoomTemplate)
+{
+}
 else
 {
 	x = global.prevX;

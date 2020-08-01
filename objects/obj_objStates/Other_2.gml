@@ -41,3 +41,13 @@ global.hasKey = false;
 global.hasPaperTowels = false;
 global.towelBoxOpen = false;
 
+//RPG
+
+global.inBattle = false;
+
+//Party
+
+global.partyMembers[0] = obj_cat;
+global.partyMembers[1] = obj_gecko;
+global.partyMembers[2] = obj_cat2;
+global.partyMembers[3] = obj_cow;

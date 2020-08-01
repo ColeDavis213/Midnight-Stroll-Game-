@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "00892db2-9b80-47ba-8f37-888d694964bb",
+            "Value": {
+                "id": "ef706ca9-59d9-4b31-95bf-db04840e3d44",
+                "resourcePath": "objects\\obj_attack2Box\\obj_attack2Box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "00ac9b53-a9e3-4096-9155-37b92c33bb78",
             "Value": {
                 "id": "fec6c59c-7532-4a95-8498-b47675069a6f",
@@ -871,6 +879,14 @@
             }
         },
         {
+            "Key": "377053be-c27f-4595-97fc-c2cf64a91e3a",
+            "Value": {
+                "id": "1fd557e4-f894-4ad8-9a31-b7790eaf2984",
+                "resourcePath": "fonts\\rpg_fntHover\\rpg_fntHover.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "38262b0f-862b-4635-b518-6b8784b575ef",
             "Value": {
                 "id": "2cc73af0-f096-49be-bc87-1dc183d596e3",
@@ -1567,6 +1583,14 @@
             }
         },
         {
+            "Key": "6667ab37-ffef-4ab0-987a-f5fb8b2bbc91",
+            "Value": {
+                "id": "973af3bb-d490-4c3a-b2c1-dd75e4c4592b",
+                "resourcePath": "objects\\obj_attack1Box\\obj_attack1Box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "66b09adf-30bb-424b-96a1-a3233ff3ead9",
             "Value": {
                 "id": "7d66a9fa-63dc-4609-b965-8db1ce3aa492",
@@ -1772,6 +1796,14 @@
                 "id": "f4fb8acf-b73d-4258-8479-49d00f9b2904",
                 "resourcePath": "objects\\obj_grave03\\obj_grave03.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72f023dd-d9cf-4d07-ae81-58b979453494",
+            "Value": {
+                "id": "30d46048-5b2c-4aea-8c25-e207070a14ab",
+                "resourcePath": "sprites\\spr_nothingLeft\\spr_nothingLeft.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2119,6 +2151,14 @@
             }
         },
         {
+            "Key": "88a76f60-461a-403d-9f5e-03b41ccada2e",
+            "Value": {
+                "id": "d11741e3-8863-477e-a7a8-f5bf77d2cc19",
+                "resourcePath": "objects\\obj_backBox\\obj_backBox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "89e66019-945b-464c-ae25-69d708e4fed1",
             "Value": {
                 "id": "586aa962-b64d-49c9-978b-ff50982d4bab",
@@ -2276,6 +2316,14 @@
                 "id": "0aa0bb47-e758-4695-8463-2ed5d27ee742",
                 "resourcePath": "objects\\obj_charBox1\\obj_charBox1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9258be9b-170a-410d-8b0f-6c79fd51c36a",
+            "Value": {
+                "id": "438944c2-5c7a-4857-b61a-8c8fc02d545b",
+                "resourcePath": "fonts\\rpg_fnt\\rpg_fnt.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -3604,6 +3652,14 @@
                 "id": "8c5a9ca5-7364-48e5-9265-b4fea70da5ec",
                 "resourcePath": "sprites\\spr_house0_livrm_kitchText\\spr_house0_livrm_kitchText.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6e49d5d-c568-4b6d-8e33-ca07d4c19e56",
+            "Value": {
+                "id": "1e11da4e-8c23-4ae6-a76a-e070e6a3d0fd",
+                "resourcePath": "objects\\obj_RPGStates\\obj_RPGStates.yy",
+                "resourceType": "GMObject"
             }
         },
         {
