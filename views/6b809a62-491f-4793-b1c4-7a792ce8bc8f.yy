@@ -10,10 +10,11 @@
         "93b869cb-6e6f-464b-9355-cc042713372a",
         "1a3e9aea-23f1-404c-a04f-785faa18899e",
         "54bf8621-36c4-447b-bb4b-43e3d6e36e3c",
-        "ef5d00a1-8612-4485-8837-7c195cf0c4e7",
+        "aa5e01a2-865f-401b-9772-f18f7fc1a609",
         "7094f020-b0f8-4f76-a78b-f7e299b9902e",
         "ea18ebfe-f3c0-4984-8260-b1f9a990ad82",
-        "aa95a2c3-3a55-43f7-b8cc-0c63655e81c8"
+        "aa95a2c3-3a55-43f7-b8cc-0c63655e81c8",
+        "f8c3f5a9-8a34-4fce-923f-6f5f97ae2b60"
     ],
     "filterType": "GMSprite",
     "folderName": "RPG",

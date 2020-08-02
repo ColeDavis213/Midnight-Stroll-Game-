@@ -12,3 +12,9 @@ if (entered)
 }
 
 draw_text(x, y ,"> " + global.partyMembers[obj_RPGStates.turn].attacks1_Name);
+
+if (attacked && damageFloat <= 20)
+{
+	draw_text(obj_enemy0.x + 100, obj_enemy0.y - damageFloat, global.partyMembers[obj_RPGStates.turn].attacks1_Damage);
+	damageFloat++;
+}
